@@ -1,4 +1,4 @@
-# Module 4: Agent Architecture & Advanced RL Applications
+# Module 4: Identify Key Performance Parameters
 
 ## 1. Agent Architecture Design Choices
 
