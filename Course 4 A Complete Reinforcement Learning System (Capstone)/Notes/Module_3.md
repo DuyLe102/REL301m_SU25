@@ -1,7 +1,3 @@
-
-
-# Module 5: RL Algorithms & Implementation - Study Notes
-
 ## 1. Choosing the Right RL Algorithm
 
 ### Key Factors trong Algorithm Selection:
