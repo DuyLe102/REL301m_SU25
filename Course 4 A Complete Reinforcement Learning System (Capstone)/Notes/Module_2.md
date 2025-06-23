@@ -32,12 +32,12 @@ $$
 $$
 
 | Component    | Ký hiệu     | Mô tả                                  |
-|--------------|-------------|-----------------------------------------|
-| States       | \( S \)     | Tập hợp tất cả các trạng thái có thể   |
-| Actions      | \( A \)     | Tập hợp tất cả các hành động có thể    |
-| Transitions  | \( P \)     | \( P(s'|s,a) \): Xác suất chuyển trạng thái |
-| Rewards      | \( R \)     | \( R(s,a,s') \): Phần thưởng tức thì    |
-| Discount     | \( gamma \) | Hệ số chiết khấu phần thưởng tương lai |
+|--------------|-------------|----------------------------------------|
+| States       | $S$         | Tập hợp tất cả các trạng thái có thể   |
+| Actions      | $A$         | Tập hợp tất cả các hành động có thể    |
+| Transitions  | $P$         | $P(s'\|s,a)$: Xác suất chuyển trạng thái |
+| Rewards      | $R$         | $R(s,a,s')$: Phần thưởng tức thì       |
+| Discount     | $\gamma$    | Hệ số chiết khấu phần thưởng tương lai |
 
 ### Markov Property
 
@@ -45,7 +45,7 @@ $$
 
 ### Policies và Value Functions
 
-- **Policy** \( \pi \): Quy tắc chọn hành động tại mỗi trạng thái  
+- **Policy** \( pi \): Quy tắc chọn hành động tại mỗi trạng thái  
   - Deterministic: Luôn chọn cùng một hành động  
   - Stochastic: Chọn theo phân phối xác suất  
 
