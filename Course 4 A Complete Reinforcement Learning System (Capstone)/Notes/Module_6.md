@@ -1,5 +1,5 @@
 
-# Module 4 Part 3: Parameter Studies & Research Best Practices
+# Module 6: Parameter Studies & Research Best Practices
 
 ## 1. Parameter Studies trong RL
 
