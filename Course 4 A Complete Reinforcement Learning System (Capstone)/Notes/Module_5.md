@@ -1,5 +1,5 @@
 
-# Module 4 Part 2: Implementation Details & Advanced Techniques
+# Module 4: Implementation Details & Advanced Techniques
 
 ## 1. Getting Agent Details Right
 
