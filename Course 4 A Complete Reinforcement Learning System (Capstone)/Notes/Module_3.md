@@ -113,7 +113,7 @@ Alternative to discounted rewards, especially for continuing tasks.
 **Objective**:
 
 $$
-\bar{r}_\pi = \lim\limits_{T \to \infty} \frac{1}{T} \mathbb{E}_\pi \left[ \sum_{t=1}^T R_t \right]
+\bar{r}_{\pi} = \lim\limits_{T \to \infty} \frac{1}{T} \mathbb{E}_{\pi} \left[ \sum_{t=1}^T R_t \right]
 $$
 
 ### When to Use:
